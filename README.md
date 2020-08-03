@@ -1,6 +1,9 @@
 # INFM_Course_Projects
-This repository contains projects created as a part of the MIM course work
+This repository contains my projects created as a part of the MIM course work
 
-1. iBlood web application was created with HTML, CSS and JavaScript on the client side, MySQL database to store all the data and Python scripts on the server side to pull data from the database into the web application.
+1. iBlood web application was developed to help UMD host blood donation activities and connect Donors to recipients.
+      Client-side: HTML, CSS, JavaScript,
+      Database: phpMyAdmin
+      Server-side: Python scripts using MySQL queries to pull data from the database into the web application.
 
 
