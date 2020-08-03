@@ -6,4 +6,6 @@ This repository contains my projects created as a part of the MIM course work
       Database: phpMyAdmin
       Server-side: Python scripts using MySQL queries to pull data from the database into the web application.
 
+2. US Presidential election 2016 data pre-processing and visualization in Google Colab - Notebook attached
+
 
